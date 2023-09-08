@@ -206,6 +206,7 @@ namespace coversor_medidas
                 double num;
                 num = Convert.ToDouble(lblRes1.Text);
                 total = num / 10;
+                //teste commit
 
                 lblRes2.Text = total.ToString();
             }
