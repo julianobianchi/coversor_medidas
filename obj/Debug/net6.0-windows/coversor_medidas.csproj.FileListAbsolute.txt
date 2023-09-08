@@ -1,0 +1,32 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.deps.json
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.runtimeconfig.json
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.AssemblyInfoInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.AssemblyInfo.cs
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\refint\coversor_medidas.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.genruntimeconfig.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\ref\coversor_medidas.dll
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.exe
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.deps.json
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.runtimeconfig.json
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.dll
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\bin\Debug\net6.0-windows\coversor_medidas.pdb
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.Form1.resources
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.csproj.GenerateResource.cache
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.AssemblyInfoInputs.cache
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.AssemblyInfo.cs
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.csproj.CoreCompileInputs.cache
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.dll
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\refint\coversor_medidas.dll
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.pdb
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\coversor_medidas.genruntimeconfig.cache
+C:\Users\Juliano Bianchi\OneDrive - SENAC-SC\ENTRA21_2023\C#\coversor_medidas\obj\Debug\net6.0-windows\ref\coversor_medidas.dll
